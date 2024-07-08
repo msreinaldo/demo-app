@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recibo>
+	<id>1</id>
+	<empresa>
+		<nome>telecom xyz ltda</nome>
+		<cnpj>12.345.678/0001-90</cnpj>
+		<endereco>
+			<rua>avenida principal, 123</rua>
+			<cidade>são paulo</cidade>
+			<estado>sp</estado>
+			<cep>01000-000</cep>
+		</endereco>
+	</empresa>
+	<cliente>
+		<nome>joão da silva</nome>
+		<cpf>123.456.789-00</cpf>
+		<endereco>
+			<rua>rua secundária, 456</rua>
+			<cidade>são paulo</cidade>
+			<estado>sp</estado>
+			<cep>02000-000</cep>
+		</endereco>
+	</cliente>
+	<totalrecebido>100.00</totalrecebido>
+</recibo>
